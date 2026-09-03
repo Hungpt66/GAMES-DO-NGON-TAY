@@ -1,0 +1,10 @@
+{
+  "name": "Thử Thách Quản Lý Cấp Trung",
+  "description": "Trò chơi tương tác kiểm tra kiến thức lãnh đạo và kỹ năng quản lý cấp trung, nhận diện cử chỉ ngón tay qua camera và hệ thống quản trị câu hỏi.",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
